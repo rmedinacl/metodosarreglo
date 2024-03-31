@@ -1,7 +1,7 @@
 let tasks = [
   { id: "16", description: "Levantarse 04:30 AM", completed: true },
   { id: "22", description: "Llenar Calendario Matutino", completed: true },
-  { id: "69", description: "Hacer Tarea Más Rapida", completed: false },
+  { id: "69git ", description: "Hacer Tarea Más Rapida", completed: false },
 ];
 
 function renderTasks() {
